@@ -1,0 +1,14 @@
+{
+    "name": "pekanbaru/flood-data",
+    "description": "Real-time flood monitoring and early warning system for Pekanbaru.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pekanbaru\\FloodData\\": "src/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
