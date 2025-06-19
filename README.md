@@ -132,9 +132,14 @@ This project is licensed under the **MIT License**.
 
 Below are some visual representations of the application's interface and features.
 
+![Dashboard Overview](screenshot/dashboard.png)
 *A quick look at the main dashboard, showing key statistics.*
 
+![Alerts Page](screenshot/alerts_page.png)
 *The alerts section, displaying active warnings and weather data.*
 
+![Report Generation Example](screenshot/report_example.png)
 *An example of the comprehensive flood report.*
+
+---
 
