@@ -130,16 +130,40 @@ This project is licensed under the **MIT License**.
 
 ## Screenshots
 
-Below are some visual representations of the application's interface and features.
+Below are various visual representations of the application's interface and key features.
 
-![Dashboard Overview](screenshot/dashboard.png)
-*A quick look at the main dashboard, showing key statistics.*
+---
 
-![Alerts Page](screenshot/alerts_page.png)
-*The alerts section, displaying active warnings and weather data.*
+### Dashboard & Analytics
 
-![Report Generation Example](screenshot/report_example.png)
-*An example of the comprehensive flood report.*
+![Dashboard Overview](screenshoot/dashboard.png)
+*A comprehensive overview of flood statistics, average water levels, and affected areas on the main dashboard.*
+
+---
+
+### Alert Monitoring
+
+![Alerts Page - Main View](screenshoot/alert_page.png)
+*The main alerts page displaying active warnings, river levels, and real-time weather forecasts.*
+
+![Alert Details Modal](screenshoot/alert_page2.png)
+*A detailed view of a specific flood alert, providing more in-depth information.*
+
+![Add New Alert Form](screenshoot/alert_page3.png)
+*Interface for adding new flood alerts to the system.*
+
+---
+
+### Reporting & Documentation
+
+![Report Page - Overview](screenshoot/report_page.png)
+*The main report page showing incident summaries and historical data.*
+
+![Damage Assessment Table in Report](screenshoot/report_page2.png)
+*Detail of the damage assessment table within the comprehensive report.*
+
+![PDF Report Example](screenshoot/example_pdf.png)
+*An example of the generated PDF report, ready for download.*
 
 ---
 
